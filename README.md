@@ -1,4 +1,5 @@
-<img width="1371" height="920" alt="Screenshot 2025-10-29 144041" src="https://github.com/user-attachments/assets/f194a0f0-614b-46b1-bf58-62fbc5c7d979" />
+<img width="1635" height="1042" alt="contract" src="https://github.com/user-attachments/assets/15db11d7-77fb-4262-bc62-e540716772d8" />
+
 # 🎴 On-Chain Card Suit Guessing Game  
 
 ### 🧠 A Beginner-Friendly Blockchain Game Built with Solidity  
