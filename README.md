@@ -48,4 +48,4 @@ In this game, you **guess a card suit** â€” Clubs, Diamonds, Hearts, or Spades â
 
 ---
 }
-<img width="1371" height="920" alt="Screenshot 2025-10-29 144041" src="https://github.com/user-attachments/assets/f9ec13c8-db06-4f98-9b98-a85ded5b0502" />
+
